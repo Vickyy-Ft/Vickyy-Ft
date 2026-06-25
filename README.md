@@ -2,57 +2,32 @@
 
 ```javascript
 const vignesh = {
-    name: "VIGNESH K",
-    alias: "Vickyy-Ft",
-    location: "Tamil Nadu, India 🇮🇳",
-    role: "Full-Stack Developer & AI Enthusiast",
+  name     : "VIGNESH K",
+  alias    : "Vickyy-Ft",
+  location : "Sivakasi, Tamil Nadu, India",
+  role     : "Full-Stack Developer",
 
-    skills: {
-        languages: [
-            "JavaScript", "Python", "Java",
-            "C", "C#", "HTML5", "CSS3"
-        ],
+  stack: [
+    "Python", "Java", "JavaScript",
+    "React.js", ".NET", "AWS",
+    "FastAPI", "MySQL"
+  ],
 
-        frontend: [
-            "React.js", "React Native",
-            "Tailwind CSS", "Vite"
-        ],
+  learning: [
+    "AI Agents",
+    "Cloud Architecture",
+    "Advanced React",
+    "Local LLMs"
+  ],
 
-        backend: [
-            "Node.js", "FastAPI",
-            ".NET Web API", "REST APIs"
-        ],
+  passions: [
+    "AI-Powered Applications",
+    "Cloud-Native Solutions",
+    "Intelligent Automation"
+  ],
 
-        databases: [
-            "MySQL", "SQLite",
-            "Amazon DynamoDB"
-        ],
-
-        cloud: [
-            "AWS", "Nginx",
-            "Apache Tomcat"
-        ]
-    },
-
-    passions: [
-        "AI-Powered Applications",
-        "Cloud-Native Solutions",
-        "Intelligent Automation",
-        "Scalable Full-Stack Development"
-    ],
-
-    currentFocus: [
-        "AI Agents",
-        "Local LLMs",
-        "Agentic Workflows",
-        "AWS Cloud Architecture"
-    ],
-
-    funFact: "I love turning ideas into intelligent software solutions 🚀",
-
-    contact: "mrvicks67@gmail.com",
-
-    motto: () => "Build. Learn. Automate. Scale."
+  funFact : "I love building AI-powered applications and automating workflows 🤖",
+  motto   : () => "Build. Learn. Automate. Scale. 🚀"
 };
 ```
 
